@@ -1,4 +1,5 @@
-# SpringBoot Part4 7. 게시판 구현
+# SpringBoot Part 4
+7. 게시판 구현
 
 ## 개발 환경
 - Spring Boot 3.1.2
